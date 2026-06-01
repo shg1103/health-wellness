@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jiankang.github.io/sitemap.xml
